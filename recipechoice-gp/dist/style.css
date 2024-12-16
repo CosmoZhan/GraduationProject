@@ -769,7 +769,7 @@ section#rankB>.container-fluid>.row>.col-sm-3>a>.card.b-6::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.5); /* 半透明黑色 */
+  background: rgba(0, 0, 0, 0.65); /* 半透明黑色 */
   border-radius: 30px; /* 與圖片相同的圓角 */
   z-index: 1; /* 確保在最上層 */
 }
